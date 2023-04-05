@@ -1,2 +1,2 @@
 # gosh
-RFC7239-Compliant HTTP Caching library for Go
+RFC7234-Compliant HTTP Caching library for Go
